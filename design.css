@@ -1,0 +1,14 @@
+.body{
+ background: url('new1.png');
+ color: purple;
+}
+.tulis{
+	text-align: left;
+	font-size: 15px;
+	color: black;
+}
+.button{
+	color: black;
+	font-size: 15;
+	padding: 5px;
+}
